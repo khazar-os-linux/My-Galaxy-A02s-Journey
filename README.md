@@ -1,7 +1,7 @@
 # Galaxy A02s (SM-A025F)
 ## Custom Recovery Availibility
 **STATUS**: Yes (Unofficial)
-- Unofficial TWRP
+- Unofficial [TWRP](https://github.com/khazar-os-linux/My-Galaxy-A02s-Journey/raw/refs/heads/main/resources/twrp-3.7.1-a02q-unofficial.img.tar)
 
 > OFox build is dead.
 > 
