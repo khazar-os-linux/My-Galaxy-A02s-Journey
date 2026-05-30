@@ -1,3 +1,4 @@
+# How To Flash TWRP
 
 - You need to have your Bootloader Unlocked. Check how to do it [here](HOW_TO_UNLOCK_BOOTLOADER.md).
 - Grab TWRP for this device from [this page](https://github.com/khazar-os-linux/My-Galaxy-A02s-Journey/raw/refs/heads/main/resources/twrp-3.7.1-a02q-unofficial.img.tar). This is recommended one.
