@@ -27,10 +27,10 @@ Maintainers: [Doze-Off](https://github.com/Doze-off?tab=repositories), [Andy Yan
    - **A16** 12.0 BvN Build from [Doze-Off Builds](https://github.com/Doze-off/crdroid_gsi_treble/releases/tag/2025-08-02)
     Have some RAM bottleneck issues. 
    - **A14** 10.13 BvN Build from [Nazim N](https://github.com/naz664/crDroid_gsi/releases)
-    Not bad but old bro. Also his repos are dead. \
+    Not bad but old bro. Also his repos are dead. 
 
 - Voltage OS
-- **A16** 5.0 Build from [Doze-Off Builds](https://github.com/Doze-off/crdroid_gsi_treble/releases/tag/2025-08-02)
+   - **A16** 5.0 Build from [Doze-Off Builds](https://github.com/Doze-off/crdroid_gsi_treble/releases/tag/2025-08-02)
     Too laggy and there is no Google Apps.
-- **A15** 4.5 EoL build from [cawilliamson](https://github.com/cawilliamson/treble_voltage/tree/4.5-20250717.114637)
+   - **A15** 4.5 EoL build from [cawilliamson](https://github.com/cawilliamson/treble_voltage/tree/4.5-20250717.114637)
     Best one.
