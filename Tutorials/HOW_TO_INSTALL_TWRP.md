@@ -5,6 +5,7 @@
 - Enter [download mode](HOW_TO_UNLOCK_BOOTLOADER.md) on your phone.
 - Plug your phone into your computer.
 - Flash the downloaded TWRP file with odin or brokkr.
+
   Odin:
     Enter `odin4 -a /path/to/twrp.img.tar` from terminal.
 
