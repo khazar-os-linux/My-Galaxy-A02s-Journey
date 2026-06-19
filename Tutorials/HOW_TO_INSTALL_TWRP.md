@@ -7,7 +7,7 @@
 - Flash the downloaded TWRP file with odin or brokkr.
 
   Odin:
-    Enter `odin4 -a /path/to/twrp.img.tar` from terminal.
+    write `odin4 -a /path/to/twrp.img.tar`  command into terminal.
 
    Brokkr:
 	Put your `twrp.img.tar` file into the AP section and click to `START` button.
